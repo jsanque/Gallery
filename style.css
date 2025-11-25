@@ -1,3 +1,8 @@
+body{
+    background-color: rgb(49, 48, 48);
+    color: azure;
+    font-family: 'Poppins', sans-serif;
+}
 .hero {
     position: relative;
     height: 100vh;
@@ -16,4 +21,15 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    text-align: center;
 }
+.navbar{
+    background-color: black;
+}
+.card {
+    background-color: #111;
+    color: white;
+    border: none;
+}
+
+
