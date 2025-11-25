@@ -20,15 +20,15 @@ var galleryItems = [
         image: "imgs/clb.jpg",
     },
     {
-        title: "Thank Me Later (2010)",
-        image: "imgs/thank me later.jpg",
+        title: "More Life (2017)",
+        image: "imgs/more life.jpg",
     },
     {
         title: "For All The Dogs (2023)",
         image: "imgs/faltd.jpg",
     },
     {
-        title: "Honestly, Nevermind (2022)",
-        image: "imgs/honest;y.jpg",
+        title: "If You're Reading This It's Too Late (2015)",
+        image: "imgs/6album.jpg",
     }
 ];
